@@ -23,6 +23,6 @@ composer install
 php index.php
 ```
 
-## Lincese
+## License
 
 This project is licensed under the MIT License
